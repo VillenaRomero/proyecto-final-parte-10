@@ -33,7 +33,7 @@ public class movedplayer : NewBehaviourScript
         }
         
     }
-    public void OnTriggerStay2D(Collider2D collision)
+    public void OnCollisionStay2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "zombi")
         {

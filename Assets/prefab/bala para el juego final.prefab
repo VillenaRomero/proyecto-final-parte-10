@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1494398046001566836}
   - component: {fileID: 450766838102631530}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bala para el juego final
   m_TagString: Untagged
   m_Icon: {fileID: 0}
