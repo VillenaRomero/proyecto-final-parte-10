@@ -12,9 +12,13 @@ public class movedplayer : NewBehaviourScript
     public float speedy;
     private Rigidbody2D _compRigidbody2D;
     public GameObject bulletprefab;
+    private SpriteRenderer _comSpriteRenderer;
+
     private void Awake()
     {
         _compRigidbody2D = GetComponent<Rigidbody2D>();
+        _comSpriteRenderer = GetComponent<SpriteRenderer>();
+
     }
     void Start()
     {
@@ -26,6 +30,21 @@ public class movedplayer : NewBehaviourScript
     {
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
+        if (0 < horizontal)
+        {
+            _comSpriteRenderer.flipX = false;
+
+        }
+        if (0 > horizontal){
+            _comSpriteRenderer.flipX = true;
+        }
+        if(0 < vertical )
+        {
+            _comSpriteRenderer.flipY = false;
+        }
+        if (0 > vertical ) {
+            _comSpriteRenderer.flipY = true;
+        }
         _compRigidbody2D.velocity = new Vector2(speedx * horizontal, speedy * vertical);
         if (Input.GetKeyDown(KeyCode.Z))
         {
@@ -33,14 +52,17 @@ public class movedplayer : NewBehaviourScript
         }
         
     }
-    public void OnCollisionStay2D(Collider2D collision)
+    public void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "zombi")
         {
             life = life - 1;
-        }
-        if (life == 0) {
+            
+            if (life == 0) {
+
             SceneManager.LoadScene("death");
+
+            }
         }
     }
 }

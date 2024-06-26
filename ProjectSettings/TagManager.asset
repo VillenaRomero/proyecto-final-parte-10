@@ -8,6 +8,8 @@ TagManager:
   - cambio de escena
   - level2
   - zombi
+  - bullet
+  - caja
   layers:
   - Default
   - TransparentFX

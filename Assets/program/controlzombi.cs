@@ -14,7 +14,7 @@ public class controlzombi : NewBehaviourScript
             transform.position = Vector2.MoveTowards(transform.position, objective.transform.position, speed * Time.deltaTime);
         }
     }
-    /*private void OnTriggerStay2D(Collider2D collision)
+    private void OnTriggerStay2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "bullet")
         {
@@ -22,7 +22,7 @@ public class controlzombi : NewBehaviourScript
         }
         if (life == 0)
         {
-            Destroy(gameObject);
+            Destroy(this.gameObject);
         }
-    }*/
+    }
 }
