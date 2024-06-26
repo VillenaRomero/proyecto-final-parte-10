@@ -229,7 +229,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 316286809}
 --- !u!212 &2178730
@@ -406,7 +405,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 221088102}
 --- !u!212 &4341862
@@ -509,7 +507,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &9163215
 CircleCollider2D:
@@ -667,7 +664,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1533620251}
 --- !u!212 &26081782
@@ -770,7 +766,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &33970652
 CircleCollider2D:
@@ -854,7 +849,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &35842525
 CircleCollider2D:
@@ -938,7 +932,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &36123133
 CircleCollider2D:
@@ -1096,7 +1089,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1766220264}
 --- !u!212 &36542585
@@ -1273,7 +1265,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1188833045}
 --- !u!212 &37093374
@@ -1376,7 +1367,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &55398061
 CircleCollider2D:
@@ -1460,7 +1450,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &60739303
 CircleCollider2D:
@@ -1618,7 +1607,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 36123132}
 --- !u!212 &60754612
@@ -1721,7 +1709,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &63769008
 CircleCollider2D:
@@ -1879,7 +1866,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 35842524}
 --- !u!212 &74263114
@@ -2140,7 +2126,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &84608449
 CircleCollider2D:
@@ -2298,7 +2283,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1741054726}
 --- !u!212 &104969229
@@ -2475,7 +2459,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1368306030}
 --- !u!212 &117804719
@@ -2578,7 +2561,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &121468497
 CircleCollider2D:
@@ -2662,7 +2644,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &123812518
 CircleCollider2D:
@@ -2820,7 +2801,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 593915098}
 --- !u!212 &146620224
@@ -3081,7 +3061,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &178030071
 CircleCollider2D:
@@ -3239,7 +3218,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1525590766}
 --- !u!212 &188120444
@@ -3342,7 +3320,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &221088103
 CircleCollider2D:
@@ -3658,7 +3635,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1723451761}
 --- !u!212 &268347690
@@ -3761,7 +3737,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &268731683
 CircleCollider2D:
@@ -3919,7 +3894,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 515643206}
 --- !u!212 &270472744
@@ -4180,7 +4154,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &283688490
 CircleCollider2D:
@@ -4338,7 +4311,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 123812517}
 --- !u!212 &303592721
@@ -4515,7 +4487,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1682657458}
 --- !u!212 &307316038
@@ -4692,7 +4663,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1382135558}
 --- !u!212 &316230788
@@ -4795,7 +4765,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &316286810
 CircleCollider2D:
@@ -4879,7 +4848,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &319319573
 CircleCollider2D:
@@ -5037,7 +5005,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 178030070}
 --- !u!212 &326172709
@@ -5214,7 +5181,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 459122781}
 --- !u!212 &333502681
@@ -5317,7 +5283,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &336771003
 CircleCollider2D:
@@ -5401,7 +5366,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &337223053
 CircleCollider2D:
@@ -5485,7 +5449,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &342362889
 CircleCollider2D:
@@ -5569,7 +5532,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &367818608
 CircleCollider2D:
@@ -5653,7 +5615,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &370800101
 CircleCollider2D:
@@ -5811,7 +5772,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1049280582}
 --- !u!212 &374368698
@@ -5914,7 +5874,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &380489086
 CircleCollider2D:
@@ -6072,7 +6031,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2135576505}
 --- !u!212 &388640244
@@ -6249,7 +6207,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 861612232}
 --- !u!212 &393930400
@@ -6352,7 +6309,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &399767038
 CircleCollider2D:
@@ -6510,7 +6466,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 739204870}
 --- !u!212 &412548287
@@ -6687,7 +6642,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1882178966}
 --- !u!212 &436135963
@@ -6790,7 +6744,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &459122782
 CircleCollider2D:
@@ -6874,7 +6827,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &466815034
 CircleCollider2D:
@@ -7032,7 +6984,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1349529405}
 --- !u!212 &468363072
@@ -7137,7 +7088,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 527349010}
 --- !u!212 &468755609
@@ -7264,7 +7214,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -7386,7 +7336,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2126453455}
 --- !u!212 &484187181
@@ -7563,7 +7512,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1854740717}
 --- !u!212 &506935163
@@ -7740,7 +7688,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 380489085}
 --- !u!212 &509192034
@@ -7843,7 +7790,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &514493956
 CircleCollider2D:
@@ -8001,7 +7947,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1144784575}
 --- !u!212 &514786777
@@ -8104,7 +8049,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &515643207
 CircleCollider2D:
@@ -8188,7 +8132,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &516505774
 CircleCollider2D:
@@ -8287,7 +8230,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &527349012
 CircleCollider2D:
@@ -8430,7 +8372,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1958219056}
 --- !u!212 &540183659
@@ -8927,7 +8868,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1161198419}
 --- !u!212 &577076697
@@ -9030,7 +8970,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &593915099
 CircleCollider2D:
@@ -9204,7 +9143,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &607104498
 CircleCollider2D:
@@ -9288,7 +9226,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &618765261
 CircleCollider2D:
@@ -9614,7 +9551,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &675411708
 CircleCollider2D:
@@ -9698,7 +9634,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &684708438
 CircleCollider2D:
@@ -9782,7 +9717,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &691744301
 CircleCollider2D:
@@ -9940,7 +9874,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2112920838}
 --- !u!212 &693918641
@@ -10043,7 +9976,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &701891894
 CircleCollider2D:
@@ -10201,7 +10133,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1837560270}
 --- !u!212 &710206730
@@ -10378,7 +10309,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 618765260}
 --- !u!212 &711778434
@@ -10555,7 +10485,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1594557238}
 --- !u!212 &714545512
@@ -10732,7 +10661,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 727225594}
 --- !u!212 &720781669
@@ -10835,7 +10763,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &727225595
 CircleCollider2D:
@@ -10993,7 +10920,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 60739302}
 --- !u!212 &730408864
@@ -11254,7 +11180,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &738297927
 CircleCollider2D:
@@ -11338,7 +11263,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &739204871
 CircleCollider2D:
@@ -11496,7 +11420,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1600319209}
 --- !u!212 &739636769
@@ -11599,7 +11522,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &742158411
 CircleCollider2D:
@@ -11683,7 +11605,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &751561200
 CircleCollider2D:
@@ -11999,7 +11920,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1697434996}
 --- !u!212 &770794383
@@ -12102,7 +12022,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &772351214
 CircleCollider2D:
@@ -12260,7 +12179,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 684708437}
 --- !u!212 &773903416
@@ -12363,7 +12281,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &774312596
 CircleCollider2D:
@@ -12447,7 +12364,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &781045655
 CircleCollider2D:
@@ -12531,7 +12447,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &785898836
 CircleCollider2D:
@@ -12615,7 +12530,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &799829536
 CircleCollider2D:
@@ -13324,7 +13238,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1549856953}
 --- !u!212 &842889259
@@ -13427,7 +13340,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &857959326
 CircleCollider2D:
@@ -13511,7 +13423,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &859640515
 CircleCollider2D:
@@ -13595,7 +13506,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &859995986
 CircleCollider2D:
@@ -13679,7 +13589,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &861612233
 CircleCollider2D:
@@ -13837,7 +13746,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1801273887}
 --- !u!212 &863007810
@@ -14172,7 +14080,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 742158410}
 --- !u!212 &895102071
@@ -14349,7 +14256,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 859640514}
 --- !u!212 &896612095
@@ -14842,7 +14748,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1795855086}
 --- !u!212 &913395557
@@ -14945,7 +14850,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &927087426
 CircleCollider2D:
@@ -15103,7 +15007,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 55398060}
 --- !u!212 &933821448
@@ -15438,7 +15341,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 283688489}
 --- !u!212 &943672636
@@ -15931,7 +15833,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2042879742}
 --- !u!212 &979426834
@@ -16350,7 +16251,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1017202551
 CircleCollider2D:
@@ -16508,7 +16408,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1794485254}
 --- !u!212 &1020537841
@@ -16685,7 +16584,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 857959325}
 --- !u!212 &1025098373
@@ -16862,7 +16760,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1469608692}
 --- !u!212 &1039100061
@@ -17039,7 +16936,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 785898835}
 --- !u!212 &1044868843
@@ -17142,7 +17038,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1046655554
 CircleCollider2D:
@@ -17300,7 +17195,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 675411707}
 --- !u!212 &1046790186
@@ -17403,7 +17297,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1048332355
 CircleCollider2D:
@@ -17487,7 +17380,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1049280583
 CircleCollider2D:
@@ -17803,7 +17695,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 319319572}
 --- !u!212 &1057378973
@@ -18138,7 +18029,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1828217359}
 --- !u!212 &1096991257
@@ -18473,7 +18363,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 399767037}
 --- !u!212 &1109330541
@@ -18650,7 +18539,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1242056611}
 --- !u!212 &1109737740
@@ -18904,7 +18792,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1168896439}
 --- !u!212 &1111375987
@@ -19081,7 +18968,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1714115640}
 --- !u!212 &1116123955
@@ -19184,7 +19070,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1144784576
 CircleCollider2D:
@@ -19342,7 +19227,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1349562168}
 --- !u!212 &1147880103
@@ -19519,7 +19403,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1688801636}
 --- !u!212 &1154152995
@@ -19706,7 +19589,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1161198420
 CircleCollider2D:
@@ -19864,7 +19746,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 516505773}
 --- !u!212 &1161427412
@@ -19967,7 +19848,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1168896440
 CircleCollider2D:
@@ -20125,7 +20005,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 701891893}
 --- !u!212 &1169530055
@@ -20302,7 +20181,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1046655553}
 --- !u!212 &1180451294
@@ -20405,7 +20283,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1188833046
 CircleCollider2D:
@@ -20563,7 +20440,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 9163214}
 --- !u!212 &1192582131
@@ -20740,7 +20616,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1660600611}
 --- !u!212 &1197846380
@@ -21001,7 +20876,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1210727371
 CircleCollider2D:
@@ -21317,7 +21191,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1739375275}
 --- !u!212 &1211805830
@@ -21420,7 +21293,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1220567593
 CircleCollider2D:
@@ -21504,7 +21376,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1242056612
 CircleCollider2D:
@@ -21662,7 +21533,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 370800100}
 --- !u!212 &1249612465
@@ -21839,7 +21709,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 84608448}
 --- !u!212 &1257933461
@@ -22016,7 +21885,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2111913920}
 --- !u!212 &1263358800
@@ -22277,7 +22145,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1270977293
 CircleCollider2D:
@@ -22435,7 +22302,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1822251675}
 --- !u!212 &1272852598
@@ -22612,7 +22478,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 367818607}
 --- !u!212 &1291129649
@@ -22789,7 +22654,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 466815033}
 --- !u!212 &1330380129
@@ -22892,7 +22756,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1349529406
 CircleCollider2D:
@@ -22976,7 +22839,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1349562169
 CircleCollider2D:
@@ -23060,7 +22922,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1366857599
 CircleCollider2D:
@@ -23144,7 +23005,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1368306031
 CircleCollider2D:
@@ -23228,7 +23088,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1382135559
 CircleCollider2D:
@@ -23386,7 +23245,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1653020479}
 --- !u!212 &1392466998
@@ -23563,7 +23421,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 859995985}
 --- !u!212 &1410011005
@@ -23740,7 +23597,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 336771002}
 --- !u!212 &1411591123
@@ -23843,7 +23699,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1411831018
 CircleCollider2D:
@@ -24001,7 +23856,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2099290574}
 --- !u!212 &1414388280
@@ -24262,7 +24116,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1421579223
 CircleCollider2D:
@@ -24474,7 +24327,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1438321446
 CircleCollider2D:
@@ -24632,7 +24484,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 738297926}
 --- !u!212 &1440759629
@@ -24809,7 +24660,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1438321445}
 --- !u!212 &1459557345
@@ -24912,7 +24762,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1462954321
 CircleCollider2D:
@@ -25154,7 +25003,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1469608693
 CircleCollider2D:
@@ -25238,7 +25086,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1480826335
 CircleCollider2D:
@@ -25554,7 +25401,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 268731682}
 --- !u!212 &1519704819
@@ -25731,7 +25577,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 751561199}
 --- !u!212 &1525326558
@@ -25834,7 +25679,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1525590767
 CircleCollider2D:
@@ -25918,7 +25762,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1533620252
 CircleCollider2D:
@@ -26002,7 +25845,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1549856954
 CircleCollider2D:
@@ -26476,7 +26318,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 121468496}
 --- !u!212 &1590830751
@@ -26737,7 +26578,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1594557239
 CircleCollider2D:
@@ -26979,7 +26819,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1600319210
 CircleCollider2D:
@@ -27137,7 +26976,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2041187798}
 --- !u!212 &1603577184
@@ -27314,7 +27152,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1767480427}
 --- !u!212 &1617109114
@@ -27491,7 +27328,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1882508140}
 --- !u!212 &1620682603
@@ -27752,7 +27588,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1653020480
 CircleCollider2D:
@@ -27836,7 +27671,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1660600612
 CircleCollider2D:
@@ -27920,7 +27754,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1682657459
 CircleCollider2D:
@@ -28078,7 +27911,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1270977292}
 --- !u!212 &1686529419
@@ -28181,7 +28013,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1688801637
 CircleCollider2D:
@@ -28265,7 +28096,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1697434997
 CircleCollider2D:
@@ -28426,7 +28256,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1714115641
 CircleCollider2D:
@@ -28510,7 +28339,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1716645880
 CircleCollider2D:
@@ -28594,7 +28422,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1723451762
 CircleCollider2D:
@@ -28678,7 +28505,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1739375276
 CircleCollider2D:
@@ -28762,7 +28588,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1741054727
 CircleCollider2D:
@@ -28920,7 +28745,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 927087425}
 --- !u!212 &1743436124
@@ -29097,7 +28921,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 514493955}
 --- !u!212 &1749271586
@@ -29274,7 +29097,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1462954320}
 --- !u!212 &1754301262
@@ -29377,7 +29199,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1766220265
 CircleCollider2D:
@@ -29461,7 +29282,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1767480428
 CircleCollider2D:
@@ -29619,7 +29439,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1048332354}
 --- !u!212 &1779979834
@@ -29796,7 +29615,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1893719645}
 --- !u!212 &1784915179
@@ -29973,7 +29791,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 337223052}
 --- !u!212 &1793178033
@@ -30076,7 +29893,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1794485255
 CircleCollider2D:
@@ -30160,7 +29976,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1795855087
 CircleCollider2D:
@@ -30244,7 +30059,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1801273888
 CircleCollider2D:
@@ -30486,7 +30300,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1822251676
 CircleCollider2D:
@@ -30644,7 +30457,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 63769007}
 --- !u!212 &1826465684
@@ -30747,7 +30559,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1828217360
 CircleCollider2D:
@@ -30831,7 +30642,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1837560271
 CircleCollider2D:
@@ -30915,7 +30725,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1854740718
 CircleCollider2D:
@@ -31073,7 +30882,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 342362888}
 --- !u!212 &1869448678
@@ -31250,7 +31058,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1366857598}
 --- !u!212 &1871224041
@@ -31427,7 +31234,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1421579222}
 --- !u!212 &1873338166
@@ -31604,7 +31410,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 799829535}
 --- !u!212 &1881814661
@@ -31707,7 +31512,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1882178967
 CircleCollider2D:
@@ -31791,7 +31595,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1882508141
 CircleCollider2D:
@@ -31949,7 +31752,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1017202550}
 --- !u!212 &1890655207
@@ -32052,7 +31854,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1893719646
 CircleCollider2D:
@@ -32368,7 +32169,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1480826334}
 --- !u!212 &1919081550
@@ -32703,7 +32503,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1411831017}
 --- !u!212 &1937181278
@@ -32880,7 +32679,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1716645879}
 --- !u!212 &1938247048
@@ -33057,7 +32855,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 772351213}
 --- !u!212 &1952168759
@@ -33234,7 +33031,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1220567592}
 --- !u!212 &1953892982
@@ -33411,7 +33207,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2011933712}
 --- !u!212 &1954211956
@@ -33514,7 +33309,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &1958219057
 CircleCollider2D:
@@ -33667,7 +33461,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 50
-  damage: 0
   horizontal: 0
   vertical: 0
   speedx: 10
@@ -33851,7 +33644,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 774312595}
 --- !u!212 &1973017005
@@ -34186,7 +33978,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 33970651}
 --- !u!212 &1995345027
@@ -34531,7 +34322,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2011933713
 CircleCollider2D:
@@ -34689,7 +34479,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 781045654}
 --- !u!212 &2016689263
@@ -34950,7 +34739,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2041187799
 CircleCollider2D:
@@ -35034,7 +34822,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2042879743
 CircleCollider2D:
@@ -35192,7 +34979,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 2066086841}
 --- !u!212 &2053704541
@@ -35369,7 +35155,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 607104497}
 --- !u!212 &2054430414
@@ -35472,7 +35257,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2066086842
 CircleCollider2D:
@@ -35788,7 +35572,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 691744300}
 --- !u!212 &2095525787
@@ -35965,7 +35748,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   life: 4
-  damage: 0
   objective: {fileID: 1961308334}
   avanzar: {fileID: 1210727370}
 --- !u!212 &2095912619
@@ -36068,7 +35850,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2099290575
 CircleCollider2D:
@@ -36282,7 +36063,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2111913921
 CircleCollider2D:
@@ -36366,7 +36146,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2112920839
 CircleCollider2D:
@@ -36450,7 +36229,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2126453456
 CircleCollider2D:
@@ -36534,7 +36312,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 7
   life: 0
-  damage: 0
   ischasingplayer: 0
 --- !u!58 &2135576506
 CircleCollider2D:

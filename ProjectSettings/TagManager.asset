@@ -10,6 +10,7 @@ TagManager:
   - zombi
   - bullet
   - caja
+  - zombi1
   layers:
   - Default
   - TransparentFX

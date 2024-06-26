@@ -18,7 +18,7 @@ public class createenemy : MonoBehaviour
         float xposition = Random.Range(minXposition, maxXposition);
         Vector2 positioncreate = new Vector2(xposition, yPosition);
         Instantiate(prefabEnemy, positioncreate, transform.rotation);
-        Invoke("Createenemy", 1.0f);
+        Invoke("Createenemy", 4.0f);
     }
 
 }

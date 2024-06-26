@@ -7,6 +7,12 @@ public class controlzombi : NewBehaviourScript
 {
     public GameObject objective;
     public zonazombi avanzar;
+    private Rigidbody2D rd;
+
+    private void Awake()
+    {
+        rd = GetComponent<Rigidbody2D>();
+    }
     void Update()
     {
         if (avanzar.ischasingplayer==true)
@@ -14,15 +20,16 @@ public class controlzombi : NewBehaviourScript
             transform.position = Vector2.MoveTowards(transform.position, objective.transform.position, speed * Time.deltaTime);
         }
     }
-    private void OnTriggerStay2D(Collider2D collision)
+
+    public void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "bullet")
         {
             life = life - 1;
-        }
-        if (life == 0)
-        {
+          if (life == 0)
+          {
             Destroy(this.gameObject);
+          }
         }
     }
 }

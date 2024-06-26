@@ -60,7 +60,7 @@ public class movedplayer : NewBehaviourScript
             
             if (life == 0) {
 
-            SceneManager.LoadScene("death");
+              SceneManager.LoadScene("death");
 
             }
         }
